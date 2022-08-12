@@ -69,3 +69,19 @@ li a:hover {
   background: rgb(167, 238, 53);
   color: black;
 }
+#fusca {
+   width: 20%;
+}
+.caixaFusca {
+  position: absolute;
+  top: 200px;
+  left: 0;
+   width: 90%;
+   height: 130px;
+   background: rgb(201, 157, 157);
+   margin: 20px;
+   border-color: red;
+   border-width: 20px;
+   border-style: solid;
+   padding: 20px;
+}
